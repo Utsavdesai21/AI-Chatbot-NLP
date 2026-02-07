@@ -1,0 +1,14 @@
+hello
+hi
+hey
+how are you
+what is your name
+who created you
+what can you do
+what is python
+what is ai
+what is machine learning
+bye
+thanks
+what is data science
+what is chatbot
